@@ -8,7 +8,10 @@ class Program
         // Creating a list to store grocery items
         List<string> groceries = new List<string>()
         {
+ second_branch
             "orange",
+            "yogurt"
+            main
             "Milk",
             "Bread",
             "Eggs",
